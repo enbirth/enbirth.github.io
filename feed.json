@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Newborn Toolkit",
+    "description": "",
+    "home_page_url": "file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview",
+    "feed_url": "file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "enbirth"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview/mapping-tool.html",
+            "url": "file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview/mapping-tool.html",
+            "title": "Mapping tool",
+            "summary": "This is a mapping tool. ",
+            "content_html": "<p>This is a mapping tool.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/christian-bowen-I0ItPtIsVEE-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-xs.jpg 300w ,file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-sm.jpg 480w ,file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-md.jpg 768w\"  alt=\"\" width=\"4928\" height=\"3264\"></figure>",
+            "author": {
+                "name": "enbirth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-21T13:52:23+01:00",
+            "date_modified": "2021-06-21T13:52:23+01:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview/sitemap.xml
