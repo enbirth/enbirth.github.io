@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Newborn Toolkit</title>
-    <link href="file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview/feed.xml" rel="self" />
-    <link href="file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview" />
+    <link href="https://enbirth.github.io/feed.xml" rel="self" />
+    <link href="https://enbirth.github.io" />
     <updated>2021-06-21T13:52:23+01:00</updated>
     <author>
         <name>enbirth</name>
     </author>
-    <id>file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview</id>
+    <id>https://enbirth.github.io</id>
 
     <entry>
         <title>Mapping tool</title>
         <author>
             <name>enbirth</name>
         </author>
-        <link href="file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview/mapping-tool.html"/>
-        <id>file:///C:\Users\kpeve\Documents\Publii\sites\newborn-toolkit\preview/mapping-tool.html</id>
+        <link href="https://enbirth.github.io/mapping-tool.html"/>
+        <id>https://enbirth.github.io/mapping-tool.html</id>
 
         <updated>2021-06-21T13:52:23+01:00</updated>
             <summary>
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>This is a mapping tool.</p>
-<figure class="post__image"><img loading="lazy"  src="file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/christian-bowen-I0ItPtIsVEE-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-xs.jpg 300w ,file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-sm.jpg 480w ,file:///C:/Users/kpeve/Documents/Publii/sites/newborn-toolkit/preview/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-md.jpg 768w"  alt="" width="4928" height="3264"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://enbirth.github.io/media/posts/1/christian-bowen-I0ItPtIsVEE-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://enbirth.github.io/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-xs.jpg 300w ,https://enbirth.github.io/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-sm.jpg 480w ,https://enbirth.github.io/media/posts/1/responsive/christian-bowen-I0ItPtIsVEE-unsplash-md.jpg 768w"  alt="" width="4928" height="3264"></figure>
             ]]>
         </content>
     </entry>
